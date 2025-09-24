@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://tencry.github.io/rsschool-cv/cv
+[my cv](https://tencry.github.io/rsschool-cv/cv)
